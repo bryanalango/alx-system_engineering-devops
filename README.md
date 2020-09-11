@@ -1,0 +1,1 @@
+<p>This repo contains infomation about basic shell scripting</p>
